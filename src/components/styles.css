@@ -223,3 +223,17 @@ input:focus {
   -webkit-transform: translateY(0) scale(1, 1);
   transform: translateY(0) scale(1, 1);
 }
+
+.login {
+  line-height: 12px;
+  width: 50px;
+  font-size: 8pt;
+  font-family: tahoma;
+  margin-top: 10px;
+  margin-right: 10px;
+  position:absolute;
+  top:0;
+  right: 0;
+  text-align: center;
+  align-items: end;
+}
